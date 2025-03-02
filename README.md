@@ -7,7 +7,7 @@ Esta é uma API REST simples para gerenciar produtos, construída com Spring Boo
 - **Java 17**
 - **Spring Boot 3**
 - **Spring Data JPA**
-- **PostgreSQL** (ou outro banco de dados compatível)
+- **PostgreSQL** 
 - **Railway** (para deploy)
 
 ## Funcionalidades
